@@ -1,0 +1,2 @@
+* Blockchain demo
+  A basic blockchain example for educational purposes
